@@ -31,4 +31,4 @@ The result could look something like this, but we are always happy to see some c
 <img title="Click to enlarge..." src="img/mock.png" width="256px"/>
 
 ### Deliverable
-Preferable a link to a git repo hosted on github (alternatively a zip file of the Android Studio project).
+Preferable a link to a git repo hosted on github (alternatively a zip file of the Android Studio project, _including_ the git history).
